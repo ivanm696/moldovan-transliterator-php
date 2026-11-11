@@ -1,0 +1,20 @@
+{
+  "name": "ivanm696/moldovan-transliterator-php",
+  "description": "PHP transliterator for Moldovan Latin ↔ Cyrillic conversion",
+  "type": "library",
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "classmap": [
+      "./"
+    ]
+  },
+  "scripts": {
+    "test": "php test.php"
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
