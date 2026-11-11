@@ -1,5 +1,5 @@
 # MolTransliterator (PHP)
-
+[![PHP Composer](https://github.com/ivanm696/moldovan-transliterator-php/actions/workflows/php.yml/badge.svg)](https://github.com/ivanm696/moldovan-transliterator-php/actions/workflows/php.yml)
 PHP-порт [moldovan-transliterator](https://github.com/ivanm696/moldovan-transliterator) —
 конвертер Latin ↔ Кириллица для молдавского языка (Стандарт Лумина, ISO 639-3: `mol`),
 как на странице https://ivanm696.github.io/github/. Требуется PHP 8.0+ (расширение `mbstring` не нужно, нужен `pcre` с UTF-8).
