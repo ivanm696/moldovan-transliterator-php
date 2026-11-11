@@ -45,3 +45,7 @@ php -S localhost:8000
 ```bash
 php test.php
 ```
+
+## Лицензия
+
+Apache License 2.0 — см. [LICENSE](LICENSE). © 2026 ivanm696
